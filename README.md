@@ -1,4 +1,4 @@
-# PS_TimeMeasuringPrompt
+# TimeMeasuringPrompt
 A prompt function for PowerShell which shows the runtime of the previously executed command at the right of the screen
 
 The function takes the default prompt line from the original PS prompt function (get-content function:prompt) and adds code
